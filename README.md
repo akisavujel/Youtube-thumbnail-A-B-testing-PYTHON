@@ -1,6 +1,6 @@
 # 🎬 YouTube Thumbnail A/B Testing
 
-![Project Thumbnail](path/to/your/image.webp)
+![Project Thumbnail](https://github.com/akisavujel/Youtube-thumbnail-A-B-testing-PYTHON/blob/2e91a95b30c3af39b773281ed7dbfb63699d3bb6/Youtube-thumbnail.webp)
 
 ## 📌 Introduction
 
