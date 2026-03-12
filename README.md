@@ -26,7 +26,7 @@ This project simulates a real-world **A/B test** conducted by a YouTuber who wan
 
 ## 📌 Dataset
 
-You can download the dataset [here](LINK_TO_YOUR_DATASET).
+You can download the dataset [here](https://github.com/akisavujel/Youtube-thumbnail-A-B-testing-PYTHON/blob/main/Thumbnail_A_B_testing.csv).
 
 **Features include:**
 | Column | Description |
